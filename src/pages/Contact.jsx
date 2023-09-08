@@ -15,13 +15,13 @@ function Contact() {
   //   {isSuccessful: false, message: ''});
 
 
-    const sendEmail = async (email, subject, message) => {
-      return axios({
-        method: 'POST',
-        url: "/api/sendemail",
-        data:({ email,subject, message,name }) ,
-      });
-    };
+    // const sendEmail = async (email, subject, message) => {
+    //   return axios({
+    //     method: 'POST',
+    //     url: "/api/sendemail",
+    //     data:({ email,subject, message,name }) ,
+    //   });
+    // };
   
   
     // const handleSubmit = async (e) => {
