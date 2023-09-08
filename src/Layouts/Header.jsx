@@ -41,12 +41,12 @@ function Header() {
         <input type="checkbox" />
         <div className="mobile-menu mainmenu" id="mobile-menu">
           <ul id="nav">
-            <li ><a href="#home"><i className="las la-home" /></a></li>
-            <li><a href="#about"><i className="las la-address-book" /></a></li>
-            <li><a href="#portfolio"><i className="las la-briefcase" /></a></li>
-            <li><a href="#client"><i className="las la-exchange-alt" /></a></li>
-            <li><a href="#blog"><i className="las la-blog" /></a></li>
-            <li><a href="#contact"><i className="las la-comments" /></a></li>
+            <li ><a href="/"><i className="las la-home" /></a></li>
+            <li><a href="about"><i className="las la-address-book" /></a></li>
+            <li><a href="portfolio"><i className="las la-briefcase" /></a></li>
+            <li><a href="client"><i className="las la-exchange-alt" /></a></li>
+            <li><a href="blog"><i className="las la-blog" /></a></li>
+            <li><a href="contact"><i className="las la-comments" /></a></li>
           </ul>
         </div>
       </div>
