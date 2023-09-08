@@ -9,10 +9,10 @@ function Contact() {
   const[email,setEmail]=useState('')
   const [subject, setSubject] = useState("");
   const [message, setMessage] = useState("");
-  const [validated, setValidated] = useState(false);
+  // const [validated, setValidated] = useState(false);
 
-  const [responseMessage, setResponseMessage] = useState(
-    {isSuccessful: false, message: ''});
+  // const [responseMessage, setResponseMessage] = useState(
+  //   {isSuccessful: false, message: ''});
 
 
     const sendEmail = async (email, subject, message) => {
