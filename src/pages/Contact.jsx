@@ -24,29 +24,29 @@ function Contact() {
     };
   
   
-    const handleSubmit = async (e) => {
-      const form = e.currentTarget;
-      if (form.checkValidity() === false) {
-        e.preventDefault()
-        e.stopPropagation();
-      } else {
-        try {
-          e.preventDefault()
-          const res = await sendEmail(email, subject, message,name);
-          if (res.status === 200) {
-            setResponseMessage(
-              { isSuccessful: true, message: 'Thank you for your message.' }
-            );
-          }
-        } catch (error) {
-          console.log(error);
-          setResponseMessage({
-            isSuccessful: false,
-            message: 'Oops something went wrong. Please try again.',
-          });
-        }
-      }
-    };
+    // const handleSubmit = async (e) => {
+    //   const form = e.currentTarget;
+    //   if (form.checkValidity() === false) {
+    //     e.preventDefault()
+    //     e.stopPropagation();
+    //   } else {
+    //     try {
+    //       e.preventDefault()
+    //       const res = await sendEmail(email, subject, message,name);
+    //       if (res.status === 200) {
+    //         setResponseMessage(
+    //           { isSuccessful: true, message: 'Thank you for your message.' }
+    //         );
+    //       }
+    //     } catch (error) {
+    //       console.log(error);
+    //       setResponseMessage({
+    //         isSuccessful: false,
+    //         message: 'Oops something went wrong. Please try again.',
+    //       });
+    //     }
+    //   }
+    // };
   
   
   return (
@@ -110,7 +110,7 @@ function Contact() {
         </div>
         <div className="row">
           <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-30">
-            <Form className="contact-form" noValidate validated={validated} onSubmit={handleSubmit}>
+            <Form className="contact-form"  onSubmit={handleSubmit}>
               {/* form element */}
 
               <div className="row">
