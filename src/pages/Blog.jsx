@@ -18,7 +18,7 @@ function Blog() {
           <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12 mb-30">
             <div className="blog-warp pb-30">
               <div className="blog-img">
-                <a data-toggle="modal" data-target="#blogModalone" href="#"><img src="img/blog/1.jpg" alt='' /></a>
+                <a data-toggle="modal" data-target="#blogModalone" href="https://example.com"><img src="img/blog/1.jpg" alt='' /></a>
                 <span>fushion</span>
               </div>																	
               <div className="blog-content">
@@ -29,7 +29,7 @@ function Blog() {
                     <span>07 Aug 2021</span>
                   </div>
                 </div>
-                <h4><a data-toggle="modal" data-target="#blogModalone" href="#">Build your website into design automatically to your buisness simplicity</a></h4>
+                <h4><a data-toggle="modal" data-target="#blogModalone" href="https://example.com">Build your website into design automatically to your buisness simplicity</a></h4>
                 <p>Lorem ipsum dolor sit amet, sed do eiusmod teminc ididunt ut labore et dolore.Lorem ipsum dolor.</p>
               </div>
             </div>
@@ -37,7 +37,7 @@ function Blog() {
           <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12 mb-30">mg
             <div className="blog-warp pb-30">
               <div className="blog-img">
-                <a data-toggle="modal" data-target="#blogModalt=''wo" href="#"><img src="img/blog/2.jpg" alt='' /></a>
+                <a data-toggle="modal" data-target="#blogModalt=''wo" href="https://example.com"><img src="img/blog/2.jpg" alt='' /></a>
                 <span>Creative</span>
               </div>																	
               <div className="blog-content">
@@ -48,7 +48,7 @@ function Blog() {
                     <span>16 July 2021</span>
                   </div>
                 </div>										
-                <h4><a data-toggle="modal" data-target="#blogModalt=''wo" href="#">Guide to proper idea simplicity web design and development tools here</a></h4>
+                <h4><a data-toggle="modal" data-target="#blogModalt=''wo" href="https://example.com">Guide to proper idea simplicity web design and development tools here</a></h4>
                 <p>Lorem ipsum dolor sit amet, sed do eiusmod teminc ididunt ut labore et dolore.Lorem ipsum dolor.</p>
               </div>
             </div>
@@ -56,7 +56,7 @@ function Blog() {
           <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12 mb-30">
             <div className="blog-warp pb-30">
               <div className="blog-img">
-                <a data-toggle="modal" data-target="#blogModalt=''hree" href="#"><img src="img/blog/3.jpg" alt='' /></a>
+                <a data-toggle="modal" data-target="#blogModalt=''hree" href="https://example.com"><img src="img/blog/3.jpg" alt='' /></a>
                 <span>Lifestyle</span>
               </div>																	
               <div className="blog-content">
@@ -67,7 +67,7 @@ function Blog() {
                     <span>02 June 2021</span>
                   </div>
                 </div>										
-                <h4><a data-toggle="modal" data-target="#blogModalt=''hree" href="#">Never give in except to convictions simplicity good sense of people in company</a></h4>
+                <h4><a data-toggle="modal" data-target="#blogModalt=''hree" href="https://example.com">Never give in except to convictions simplicity good sense of people in company</a></h4>
                 <p>Lorem ipsum dolor sit amet, sed do eiusmod teminc ididunt ut labore et dolore.Lorem ipsum dolor.</p>
               </div>
             </div>
@@ -75,7 +75,7 @@ function Blog() {
           <div className="col-xl-6 col-lg-6 col-md-6 col-sm-12 mb-30">
             <div className="blog-warp pb-30">
               <div className="blog-img">
-                <a data-toggle="modal" data-target="#blogModalfour" href="#"><img src="img/blog/4.jpg" alt='' /></a>
+                <a data-toggle="modal" data-target="#blogModalfour" href="https://example.com"><img src="img/blog/4.jpg" alt='' /></a>
                 <span>Concept</span>
               </div>																	
               <div className="blog-content">
@@ -86,7 +86,7 @@ function Blog() {
                     <span>21 April 2021</span>
                   </div>
                 </div>										
-                <h4><a data-toggle="modal" data-target="#blogModalfour" href="#">Gearing your company through simplicity an Innovative of local strategy</a></h4>
+                <h4><a data-toggle="modal" data-target="#blogModalfour" href="https://example.com">Gearing your company through simplicity an Innovative of local strategy</a></h4>
                 <p>Lorem ipsum dolor sit amet, sed do eiusmod teminc ididunt ut labore et dolore.Lorem ipsum dolor.</p>
               </div>
             </div>

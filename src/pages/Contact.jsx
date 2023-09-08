@@ -195,7 +195,7 @@ function Contact() {
                   </div>
                 </div>
                 <div className="col-12 text-left">
-                  <a href="#">
+                  <a href="https://example.com">
                     <button
                       name="submit"
                       type="submit"

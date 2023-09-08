@@ -200,7 +200,7 @@ function About() {
           <div className="col-lg-4 col-sm-12 mb-30">
             <div className="counter-wrapper text-center">
               <div className="counter-icon">
-                <a href="">
+                <a href="https://example.com">
                   <i className="la la-user-friends" />
                 </a>
               </div>
@@ -213,7 +213,7 @@ function About() {
           <div className="col-lg-4 col-sm-12 mb-30">
             <div className="counter-wrapper text-center">
               <div className="counter-icon">
-                <a href="">
+                <a href="https://example.com">
                   <i className="las la-medal" />
                 </a>
               </div>
@@ -226,7 +226,7 @@ function About() {
           <div className="col-lg-4 col-sm-12 mb-30">
             <div className="counter-wrapper text-center">
               <div className="counter-icon">
-                <a href="">
+                <a href="https://example.com">
                   <i className="las la-check-square" />
                 </a>
               </div>
@@ -248,7 +248,7 @@ function About() {
               <div className="brand-wrapper">
                 <div className="brand-img">
                   <div className="img">
-                    <a href="">
+                    <a href="https://example.com">
                       <img src="img/brand/b1.png" alt=''/>
                     </a>
                   </div>
@@ -257,7 +257,7 @@ function About() {
               <div className="brand-wrapper">
                 <div className="brand-img">
                   <div className="img">
-                    <a href="">
+                    <a href="https://example.com">
                       <img src="img/brand/b2.png"  alt=''/>
                     </a>
                   </div>
@@ -266,7 +266,7 @@ function About() {
               <div className="brand-wrapper">
                 <div className="brand-img">
                   <div className="img">
-                    <a href="">
+                    <a href="https://example.com">
                       <img src="img/brand/b3.png"  alt=''/>
                     </a>
                   </div>
@@ -275,7 +275,7 @@ function About() {
               <div className="brand-wrapper">
                 <div className="brand-img">
                   <div className="img">
-                    <a href="">
+                    <a href="https://example.com">
                       <img src="img/brand/b4.png"  alt=''/>
                     </a>
                   </div>
@@ -284,7 +284,7 @@ function About() {
               <div className="brand-wrapper">
                 <div className="brand-img">
                   <div className="img">
-                    <a href="">
+                    <a href="https://example.com">
                       <img src="img/brand/b2.png"  alt=''/>
                     </a>
                   </div>
@@ -293,7 +293,7 @@ function About() {
               <div className="brand-wrapper">
                 <div className="brand-img">
                   <div className="img">
-                    <a href="">
+                    <a href="https://example.com">
                       <img src="img/brand/b3.png"  alt=''/>
                     </a>
                   </div>

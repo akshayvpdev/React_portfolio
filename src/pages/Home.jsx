@@ -22,27 +22,27 @@ function Home() {
               <div className="home-social d-none d-sm-block">
                 <ul className="social list-unstyled m-0">
                   <li className="facebook">
-                    <a title="Facebook" href="#">
+                    <a title="Facebook" href="https://example.com">
                       <i className="fa fa-facebook" />
                     </a>
                   </li>
                   <li className="twitter">
-                    <a title="Twitter" href="#">
+                    <a title="Twitter" href="https://example.com">
                       <i className="fa fa-twitter" />
                     </a>
                   </li>
                   <li className="linkedin">
-                    <a title="Linkedin" href="#">
+                    <a title="Linkedin" href="https://example.com">
                       <i className="fa fa-linkedin" />
                     </a>
                   </li>
                   <li className="dribbble">
-                    <a title="Dribbble" href="#">
+                    <a title="Dribbble" href="https://example.com">
                       <i className="fa fa-dribbble" />
                     </a>
                   </li>
                   <li className="instagram">
-                    <a title="Instagram" href="#">
+                    <a title="Instagram" href="https://example.com">
                       <i className="fa fa-instagram" />
                     </a>
                   </li>
