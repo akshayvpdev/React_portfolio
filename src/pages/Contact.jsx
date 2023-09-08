@@ -110,7 +110,7 @@ function Contact() {
         </div>
         <div className="row">
           <div className="col-xl-12 col-lg-12 col-md-12 col-sm-12 mb-30">
-            <Form className="contact-form"  onSubmit={handleSubmit}>
+            <Form className="contact-form"  >
               {/* form element */}
 
               <div className="row">
