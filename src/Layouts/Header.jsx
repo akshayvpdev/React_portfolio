@@ -4,10 +4,10 @@ import React from 'react'
 function Header() {
   const links = [
     { href: "/", text: "Home" },
-    { href: "about", text: "About" },
-    { href: "portfolio", text: "Portfolio" },
-    { href: "blog", text: "Blog" },
-    { href: "contact", text: "Contact" },
+    { href: "/about", text: "About" },
+    { href: "/portfolio", text: "Portfolio" },
+    { href: "/blog", text: "Blog" },
+    { href: "/contact", text: "Contact" },
   ]
   return (
     <header className="header-section">
