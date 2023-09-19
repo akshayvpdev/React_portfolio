@@ -1,8 +1,10 @@
 import React from 'react'
+import MotionLayout from '../components/AnimationWrapper'
 
 function Portfolio() {
   return (
-<section>
+    <MotionLayout>
+      <section>
   <div id="portfolio" className="portfolio-area content section-divide bg-gray-black">
     <div className="container">
       <div className="row">
@@ -96,6 +98,8 @@ function Portfolio() {
     </div>
   </div>
 </section>
+    </MotionLayout>
+
 
   )
 }

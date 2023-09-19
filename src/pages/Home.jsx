@@ -1,9 +1,10 @@
 import React from 'react'
+import MotionLayout from '../components/AnimationWrapper'
 
 function Home() {
   return (
-
-    <section>
+<MotionLayout>
+<section>
     <div id="home" className="banner-area content active">
       <div
         className="banne-middle vh d-flex"
@@ -54,6 +55,8 @@ function Home() {
       </div>
     </div>
   </section>
+</MotionLayout>
+
 
   )
 }

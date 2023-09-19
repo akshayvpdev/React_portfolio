@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState } from "react";
 import { Form } from "react-bootstrap";
+import MotionLayout from '../components/AnimationWrapper';
 
 
 function Contact() {
@@ -49,7 +50,8 @@ function Contact() {
   
   
   return (
-    <section>
+    <MotionLayout>
+        <section>
     <div
       id="contact"
       className="contact-area content section-divide bg-gray-black">
@@ -211,6 +213,8 @@ function Contact() {
       </div>
     </div>
   </section>
+    </MotionLayout>
+  
   )
 }
 
